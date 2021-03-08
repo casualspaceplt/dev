@@ -1,0 +1,7 @@
+{
+  "name": "Casual Space",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

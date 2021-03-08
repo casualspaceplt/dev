@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "882050580129",
+    "project_id": "tactile-acrobat-274100",
+    "storage_bucket": "tactile-acrobat-274100.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882050580129:android:1c2aac5f190e4a51437ae0",
+        "android_client_info": {
+          "package_name": "com.casualspace.casualspace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882050580129-41dr84iqhiqkcdasshpbp3mdg1dr37e5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLS3YzXhhTs17nFQ6vJMhmI05oE-lqnps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882050580129-41dr84iqhiqkcdasshpbp3mdg1dr37e5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882050580129:android:95f7021ade11f34f437ae0",
+        "android_client_info": {
+          "package_name": "com.quanlabs.nearme5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882050580129-41dr84iqhiqkcdasshpbp3mdg1dr37e5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLS3YzXhhTs17nFQ6vJMhmI05oE-lqnps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882050580129-41dr84iqhiqkcdasshpbp3mdg1dr37e5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
